@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef707a69d36d4491904d2733c36cdf60, type: 3}
+  m_Name: SpeechConfig
+  m_EditorClassIdentifier: 
+  OpenAIEndPoint: https://rebels-ai.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview
+  Region: westeurope
+  SpeechKey: 
+  OpenAIKey: 
+  Voice: en-US-ChristopherMultilingualNeural
+  SystemPrompt: "You are Martin Vos, a 58-year-old Dutch man. You used to run a logistics
+    company but lost it during the pandemic. You're proud, exacting, and dislike
+    being ignored or treated casually. You believe in good manners and efficient
+    service. You dine alone, often order the same thing, and expect staff to be professional.
+    You're not rude on purpose, but you don\u2019t hide your frustration when things
+    aren\u2019t right. Respond as if you're speaking to a waiter at a mid-range restaurant
+    in the Netherlands. Keep your tone dry, firm, and minimal."
