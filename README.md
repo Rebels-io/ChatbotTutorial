@@ -1,7 +1,9 @@
 # ChatbotTutorial
 A simple implementation of an Azure AI chatbot in a Unity project
-
 Built in Unity 6.0.30f1
+
+### Read about the implementation: https://medium.com/@merijn_48970/ai-chatbots-for-storytelling-ff633844a639
+### Watch the tutorial: https://youtu.be/A74BIkPdl9Q
 
 ## Some useful links used for this project:
 * Dreamstudio: https://dreamstudio.ai/generate 
