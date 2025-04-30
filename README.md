@@ -2,7 +2,7 @@
 A simple implementation of an Azure AI chatbot in a Unity project
 Built in Unity 6.0.30f1
 
-### Read about the implementation: https://medium.com/@merijn_48970/ai-chatbots-for-storytelling-ff633844a639
+### Read about the implementation: https://medium.com/@rebelscontent/ai-chatbots-for-augmented-reality-a0c06f0c599a
 ### Watch the tutorial: https://youtu.be/A74BIkPdl9Q
 
 ## Some useful links used for this project:
